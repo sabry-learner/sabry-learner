@@ -6,8 +6,8 @@
 
 ## 🌐 Connect with Me
 
-- 📸 Instagram: [@sabry_dev22](https://www.instagram.com/sabry_dev22/)  
 - 💼 LinkedIn: [Ahmed Sabry](http://lnkiy.in/Linkedin_ahmed_sabry12)  
+- 📸 Instagram: [@sabry_dev22](https://www.instagram.com/sabry_dev22/)  
 - 📘 Facebook: [My Profile](https://www.facebook.com/profile.php?id=100010022915017)
 
 ---
