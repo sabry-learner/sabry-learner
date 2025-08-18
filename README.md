@@ -11,8 +11,6 @@
 - Build **.NET Web APIs** with C# and Entity Framework  
 - Develop user-friendly frontends (Blazor, JavaScript, TypeScript)  
 - Work with relational databases (**SQL Server, SQLite**)  
-- Explore Linux for development and deployment  
-- Experiment with **Docker** for containerized applications  
 
 ---
 
