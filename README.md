@@ -39,6 +39,7 @@
 | Project | Description |
 |---------|-------------|
 | **GameStore** | Blazor + ASP.NET API Dockerized full-stack app |
+| **Sabritos**  | HTML + CSS + Bootsrap v5 |
 
 ---
 
