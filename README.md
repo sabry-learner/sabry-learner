@@ -13,6 +13,7 @@
 ---
 
 ## Skills & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=dotnet)
@@ -41,8 +42,4 @@
 | **GameStore** | Blazor + ASP.NET API Dockerized full-stack app |
 | **Sabritos**  | HTML + CSS + Bootsrap v5 |
 
----
 
-##  Find Me Elsewhere
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sabry-blue?style=flat&logo=linkedin)](your-linkedin-link)
-[![Email](https://img.shields.io/badge/Email-sabry-red?style=flat&logo=gmail)](mailto:your-email)
