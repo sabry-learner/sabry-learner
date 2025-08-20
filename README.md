@@ -13,7 +13,7 @@
 ---
 
 ## Skills & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=dotnet)
